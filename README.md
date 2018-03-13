@@ -1,2 +1,4 @@
-# osLabs
-Operating System lecture lab training codes
+# Operating Systems
+Lecture lab training codes
+
+
